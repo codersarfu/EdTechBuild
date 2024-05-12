@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d41d567.css",
+    "main.js": "/static/js/main.60f13b13.js",
+    "static/media/App_development.png": "/static/media/App_development.496eecf3fc956f0a3e54.png",
+    "static/media/laptop.jpg": "/static/media/laptop.2d9a19e0f8f242f092d4.jpg",
+    "static/media/Digi_marketing.jpg": "/static/media/Digi_marketing.5b760775035ed6aaa74c.jpg",
+    "static/media/web_devlop.jpg": "/static/media/web_devlop.ca55a691bb9f2b540508.jpg",
+    "index.html": "/index.html",
+    "main.5d41d567.css.map": "/static/css/main.5d41d567.css.map",
+    "main.60f13b13.js.map": "/static/js/main.60f13b13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d41d567.css",
+    "static/js/main.60f13b13.js"
+  ]
+}
